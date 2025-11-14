@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahesh548-MB&theme=merko)](https://git.io/streak-stats)
 <!--
 **mahesh548-MB/mahesh548-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
