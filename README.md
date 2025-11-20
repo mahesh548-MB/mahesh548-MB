@@ -15,7 +15,7 @@
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahesh548-MB&theme=dark&hide_border=true&background=0a0a0a&border=333333&ring=888888&fire=888888&currStreakLabel=cccccc" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahesh548-MB&theme=dark&hide_border=true&background=0a0a0a&border=333333&ring=888888&fire=888888&currStreakLabel=cccccc" />
 </p>
 
 <!-- Activity Graph -->
