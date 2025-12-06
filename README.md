@@ -10,7 +10,7 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh548-MB&show_icons=true&bg_color=0a0a0a&hide_border=true&title_color=cccccc&text_color=999999&icon_color=888888" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mahesh548-MB&show_icons=true&bg_color=0a0a0a&hide_border=true&title_color=cccccc&text_color=999999&icon_color=888888" />
 </p>
 
 <!-- Streak -->
