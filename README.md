@@ -13,15 +13,20 @@
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mahesh-baswaraj23&show_icons=true&bg_color=0a0a0a&hide_border=true&title_color=cccccc&text_color=999999&icon_color=888888" />
 </p>
 
+
 <!-- Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahesh-baswaraj23&theme=dark&hide_border=true&background=0a0a0a&border=333333&ring=888888&fire=888888&currStreakLabel=cccccc" />
 </p>
 
+
 <!-- Activity Graph -->
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-baswaraj23&bg_color=0a0a0a&color=444444&line=888888&point=cccccc&area=true&area_color=88888810&hide_border=false&radius=3&custom_title=" />
 </p>
+-->
+
 
 <hr style="border: 0.2px solid #333333; margin: 25px 0;" />
 
